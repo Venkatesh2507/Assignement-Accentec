@@ -10,3 +10,6 @@ Features of App:
 To run the app , clone the github repository in your PC and open in the Android studio
 After the gradle build , test the App in your local phone or Emulator
 Initialy , the app would ask the permission for accessing storage and camera. The permissions should be granted
+
+Sample Working video of the app:
+https://clipchamp.com/watch/lhQ7ByM5mCz
