@@ -1,4 +1,4 @@
-# Assignement-Accentec
+# Assignment-Accentec
 Image-To-Pdf converter App
 Programming Language Used: Java
 Features of App:
